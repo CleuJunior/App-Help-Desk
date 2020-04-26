@@ -2,8 +2,6 @@
 
 session_start();
 
-echo $_SESSION['x'];
-
 ?>
 
 <html>

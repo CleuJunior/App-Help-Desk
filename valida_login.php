@@ -21,6 +21,8 @@ foreach ($usuario_app as $user) {
     if($usuario_autenticado){
         echo "Usuario Logado";
         $_SESSION['autenticado'] = 'SIM';
+        $_SESSION['x'] = 'um valor';
+        $_SESSION['y'] = 'outro valor';
         header('Location: home.php');
     } else{
         $_SESSION['autenticado'] = 'NAO';
