@@ -1,0 +1,3 @@
+Tela preta#Hardware#Monitor desligando e dando tela preta.
+Impressora não imprime corretamente#Impressora#Impressora imprimindo preto e branco.
+Notebook #Rede#Notebook não consegue abrir a VPN
